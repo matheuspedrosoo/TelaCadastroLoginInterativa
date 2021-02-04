@@ -1,6 +1,6 @@
 # Tela de cadastro - Interativa
 
-![Design preview for the Profile card component coding challenge](https://github.com/matheuspedrosoo/profile-card-component/blob/main/images/desktop-preview.jpg?raw=true)
+![Design preview for the Profile card component coding challenge](https://github.com/matheuspedrosoo/TelaCadastroLoginInterativa/blob/main/img/print.jpg)
 
 ____________________________________________
 Tecnologias utilizadas no projeto:
@@ -16,4 +16,4 @@ JAVASCRIPT
 ____________________________________________
 
 O projeto pronto pode ser acessado no:
-[site](https://profile-card-component-matheuspedrosoo.vercel.app/)
+[site](https://Tela-matheuspedrosoo.vercel.app/)
