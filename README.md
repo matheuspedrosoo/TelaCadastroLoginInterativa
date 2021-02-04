@@ -1,6 +1,6 @@
 # Tela de cadastro - Interativa
 
-![Design preview for the Profile card component coding challenge](https://github.com/matheuspedrosoo/TelaCadastroLoginInterativa/blob/main/img/print.jpg)
+![Design preview](https://github.com/matheuspedrosoo/TelaCadastroLoginInterativa/blob/main/img/print.jpg)
 
 ____________________________________________
 Tecnologias utilizadas no projeto:
@@ -17,3 +17,5 @@ ____________________________________________
 
 O projeto pronto pode ser acessado no:
 [site](https://login-matheuspedrosoo.vercel.app/)
+
+Este projeto foi criado com base nas vídeo-aulas disponível em: [youtube](https://www.youtube.com/playlist?list=PLARhMvcrqcLy3bU1RxbkC7GYH7eHgXI0A)
